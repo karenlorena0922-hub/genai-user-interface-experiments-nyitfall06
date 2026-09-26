@@ -101,6 +101,13 @@
     right: 15%;
     animation-delay: 4s;
 }
+.page-background {
+    min-height: 100vh;
+    background-image: url("https://res.cloudinary.com/oym7yqno/image/upload/f_auto/q_auto/file.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
 @keyframes float {
     0%, 100% {
